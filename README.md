@@ -5,7 +5,7 @@
 ## Check out my Projects Progress
 - [from a messy, self-taught Random Room Tiler*](https://github.com/jetzypetz/crazyfloors)
 - [to an html-js-css Capybara Game*](https://github.com/jetzypetz/capybara)
-- [to an ultra-fast C++ Chess Engine*](https://github.com/jetzypetz/chess%20bot)
+- [to an ultra-fast C++ Chess Engine*](https://github.com/jetzypetz/chess_bot)
 
 *\* written from scratch without including non-standard libraries*
 
