@@ -11,7 +11,7 @@
 
 ## Read about me
 
-- [Here's a General Purpose CV I put together](General%20CV.pdf)
+- [Here's a General Purpose CV I put together](General_CV.pdf)
 
 ## About me
 - Violinist
