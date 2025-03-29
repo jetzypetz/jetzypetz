@@ -9,6 +9,10 @@
 
 *\* written from scratch without including non-standard libraries*
 
+## Read about me
+
+- [Here's a General Purpose CV I put together](General_CV.pdf)
+
 ## About me
 - Violinist
 - Traveller
