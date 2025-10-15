@@ -1,6 +1,6 @@
 # Eugenio Animali, *the no boundaries travelling violinist*
 
-**Second Year Bachelor in Mathematics & Computer Science Major at École Polytechnique**
+**Third Year Bachelor in Mathematics & Computer Science Major at École Polytechnique**
 
 ## Check out my Projects Progress
 - [from a messy, self-taught Random Room Tiler*](https://github.com/jetzypetz/crazyfloors)
